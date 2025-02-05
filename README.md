@@ -18,7 +18,8 @@ This code is inspired by the tutorials and resources available on PySource: http
 - Numpy
 - dlib
 - math
-3. a webcam to start capturing
+3. shape_predictor_68_face_landmarks.dat file from (https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
+4. a webcam to start capturing
 
 ## How to use it
 1. Start moving your eyes left and right, and you will see the detected direction displayed on the screen.
